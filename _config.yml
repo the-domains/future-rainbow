@@ -1,0 +1,14 @@
+layout_spectrum: 0.661377134732902
+typography_spectrum: 0.6349710612557828
+color:
+  brandStrength: 0.5826728227548301
+  lightness: 0.7530056489631534
+  saturation: 0.5830305190756917
+  rhythmicContrast: 0.11312945722602308
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+name: future rainbow
